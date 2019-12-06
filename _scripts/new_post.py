@@ -15,7 +15,7 @@ if post_title != "" and event != "Cancel":
     mode = 'a' if os.path.exists(f_name) else 'w'
     if not os.path.exists(f_name):
         with open(f_name, mode) as f:
-            f.write("")
+            f.write("---\ntitle: \"Title\"\ncategories:\n - Blog\ntags:\n - PLEASE CHANGE ME!\n---")
         f.close()
     else:
         sg.Popup('Blog already exists, choose a different name')
