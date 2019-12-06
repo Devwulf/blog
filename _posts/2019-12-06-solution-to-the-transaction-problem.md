@@ -1,5 +1,6 @@
 ---
 title: "Solution to the Transaction Problem and Awakening Stuff"
+date: 2019-12-06T14:36:15-05:00
 categories:
  - Blog
 tags:

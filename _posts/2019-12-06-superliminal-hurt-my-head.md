@@ -1,6 +1,6 @@
 ---
 title: "Superliminal hurt my head!"
-last_modified_at: 2019-12-06T01:40:00-05:00
+date: 2019-12-06T01:40:00-05:00
 categories:
  - Blog
 tags:
