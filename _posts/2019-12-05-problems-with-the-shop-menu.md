@@ -6,6 +6,7 @@ categories:
 tags:
   - problem
   - solution
+  - ui
 ---
 
 Gah! Why is UI work too bothersome?!

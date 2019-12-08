@@ -7,6 +7,7 @@ tags:
  - problem
  - solution
  - ideas
+ - ui
 ---
 
 Basically, transactions should only occur between two entities. Whenever an entity wants to change its own items, no transaction needs to be created; that entity has total control over its own items.
